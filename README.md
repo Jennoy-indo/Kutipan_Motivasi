@@ -1,2 +1,46 @@
-# Kutipan_Motivasi
-pembuatan web
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kutipan Motivasi</title>
+</head>
+<body>
+    <h1>Kutipan buku 'Habis Gelap Terbitlah Terang'-<cite>Kartini</cite> </h1>
+
+<blockquote>'Habis GELAP, Terbitlah TERANG' - <mark><cite>Kartini</cite></mark></blockquote>
+</q>Habis Gelap Terbitlah Terang merupakan buku karya Raden Ajeng Kartini atau lebih
+dikenal dengan sebutan R.A Kartini. Isi dari buku itu adalah kumpulan surat R.A Kartini
+ kepada temannya di Eropa, di dalam suratnya terkandung pemikiran-pemikiran Kartini yang 
+ menjadi tonggak awal emansipasi wanita di Indonesia.Habis Gelap Terbitlah Terang merupakan 
+ buku karya Raden Ajeng Kartini atau lebih </q>
+ <p>Surat-surat yang dikirimkan menguraikan pemikiran Kartini terkait berbagai masalah
+     termasuk tradisi feudal yang menindas, pernikahan paksa dan poligami bagi perempuan 
+     Jawa kelas atas, dan pentingnya pendidikan bagi anak perempuan.</p>
+<p>Dalam surat-suratnya, Kartini juga menulis keluhan dan gugatan khususnya menyangkut
+     budaya di Jawa yang dipandang sebagai penghambat kemajuan perempuan.</p>
+<h3>LIST BERSARANG</h3>
+<ol type="1">
+    <li>QUOTES Terkenal Dari R.A Kartini</li>
+    <ul type="circle">
+        <li>Ikhtiar! Berjuanglah membebaskan diri. Jika engkau sudah 
+            <br>
+            bebas karena ikhtiarmu itu, 
+            barulah dapat engkau tolong orang lain.</li>
+        <li>Gadis yang pikirannya sudah dicerdaskan, pemandangannya 
+            <br>
+            sudah diperluas, tidak akan sanggup lagi hidup di
+            dalam dunia nenek moyangnya.</li>
+        <li>Teruslah bermimpi, teruslah bermimpi, bermimpilah selama engkau dapat
+            <br>
+             bermimpi! Bila tiada bermimpi,
+             apakah jadinya hidup! Kehidupan yang sebenarnya kejam.</li>
+    </ul>
+    <li>software</li>
+    <ol type="square">
+        <li>windows</li>
+        <li></li>
+    </ol>
+</ol>
+</body>
+</html>
